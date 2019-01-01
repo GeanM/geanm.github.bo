@@ -1,0 +1,48 @@
+body {
+    background-color: bisque;
+}
+
+.weled {
+    position: fixed;
+    right: 5px;
+    top: 50%;
+}
+
+.div_prev {
+    background-color: darkturquoise;
+    background-size: contain;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
+
+.div_next {
+    background-color: darkturquoise;
+    background-size: contain;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
+
+.previus {
+    position: relative;
+    font-size: 20px;
+}
+
+.next {
+    position: relative;
+    font-size: 20px;
+}
+
+.h1 {
+    position: inherit;
+    top: 40px;
+}
