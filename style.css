@@ -1,0 +1,93 @@
+.body {
+    background: rgb(200, 200, 230);
+}
+
+.top1 {
+    background-color: aqua;
+}
+
+.wifi {
+    position: absolute;
+}
+
+.des {
+    position: absolute;
+    right: 10px;
+}
+
+.hr_w {
+    height: 45px;
+}
+
+.hr {
+    position: absolute;
+    top: 45px;
+    height: 1px;
+}
+
+.top2 {
+    background-color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-top: 70px;
+}
+
+.welco {
+    background-color: rgb(0, 0, 150);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    color: white;
+    padding-left: 25px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.un {
+    margin-top: 5px;
+}
+
+.pw {
+    margin-top: 5px;
+}
+
+
+
+.form2 {
+    margin-left: 10px;
+}
+
+.acept {
+    border-radius: 5px;
+    border-width: inherit;
+    background-color: rgb(0, 0, 150);
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+
+.canc {
+    border-radius: 5px;
+    border-width: inherit;
+    background-color: rgb(0, 0, 150);
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 5px;
+}
+
+.ayuda {
+    border-radius: 5px;
+    border-width: inherit;
+    background-color: rgb(0, 0, 150);
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 5px;
+}
+
+.span {
+    padding-left: 25px;
+    padding-right: auto;
+    padding-right: 10%;
+}
